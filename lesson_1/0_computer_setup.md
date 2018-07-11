@@ -17,6 +17,7 @@ GitHub: https://github.com/
 
 Slack: you should have already received an invitation for the CoderGirl Slack Community via email. Please make sure you accept and setup your account.
 
+
 Canvas: you should have also logged in and setup this account.
 
 
@@ -24,7 +25,6 @@ Canvas: you should have also logged in and setup this account.
 ### Download Applications
 
 [Google Chrome](https://www.google.com/chrome/browser/desktop/)
-// TODO: add a little blurb about why Chrome...
 
 
 [Slack](https://slack.com/downloads/)
@@ -37,7 +37,7 @@ I would recommend for your desktop AND/OR phone): https://slack.com/downloads/
 ### Install A Terminal Or Bash Application
 
 For Mac:
-    should be good (maybe add test to make sure they have git installed?)
+    make sure you can open your Terminal application :)
 
 For Windows:
 
