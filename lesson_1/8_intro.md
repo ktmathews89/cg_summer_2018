@@ -1,6 +1,6 @@
 ---
 title: Intro
-permalink: /lesson_1/0_intro
+permalink: /lesson_1/8_intro
 ---
 
 # Welcome
