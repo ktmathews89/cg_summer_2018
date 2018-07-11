@@ -1,6 +1,6 @@
 ---
 title: Roles Of HTML/CSS and JS
-permalink: /1_2018/lesson_1/3_roles_of_lang
+permalink: /lesson_1/3_roles_of_lang
 ---
 
 # Roles Of HTML/CSS and JS

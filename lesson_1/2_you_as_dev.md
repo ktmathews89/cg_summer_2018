@@ -1,6 +1,6 @@
 ---
 title: You As A FrontEnd Developer
-permalink: /1_2018/lesson_1/2_you_as_dev
+permalink: /lesson_1/2_you_as_dev
 ---
 
 # You As A FrontEnd Developer

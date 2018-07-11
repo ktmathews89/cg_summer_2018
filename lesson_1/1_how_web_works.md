@@ -1,6 +1,6 @@
 ---
 title: How The Web Works
-permalink: /1_2018/lesson_1/1_how_web_works
+permalink: /lesson_1/1_how_web_works
 ---
 
 # How The Web Works - Big Picture

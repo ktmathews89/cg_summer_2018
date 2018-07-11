@@ -1,6 +1,6 @@
 ---
 title: Big Picture Resources
-permalink: /1_2018/lesson_1/4_resources
+permalink: /lesson_1/4_resources
 ---
 
 # Big Picture Resource
