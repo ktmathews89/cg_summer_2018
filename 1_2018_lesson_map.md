@@ -61,13 +61,27 @@ content: [Roles of HTML, CSS and JS](1_2018/lesson_1/4_resources)
 
 **3.0 HTML/CSS Intro**
 
+content: [HTML CSS Intro](1_2018/lesson_3/html_css_1)
+
+
 **3.1 Setup Portfolio Project**
+
+content: [Setup Portfolio Project](1_2018/lesson_3/1_portfolio_1)
+
 
 **3.2 Learn Web Dev Tools**
 
+content: [Learn Web Dev Tools](1_2018/lesson_3/2_learn_web_tools)
+
+
 **3.3 Portfolio HTML/CSS Practice**
 
+content: [Portfolio HTML/CSS Practice](1_2018/lesson_3/3_portfolio_2)
+
+
 **3.4 Writing Good Code**
+
+content: [Writing Good Code](1_2018/lesson_3/4_good_code)
 
 
 ### Lesson 4
