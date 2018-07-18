@@ -4,48 +4,35 @@
 
 This is the lesson website. Here you will find all the course content you will need to LEARN! yay!
 
-There will be things to read, online courses to interact with, project challenges and a little more. This page will be updated every week with your next set of assignments so it is a good thing to **bookmark**.
+Learning Assignments: _HERE on this site_
+
+Planning: [Trello Boards](https://trello.com/cg_webdev_ss_2018)
+
+Record Completed Assignments: [Canvas](https://learn.launchcode.org/courses/131)
+
+Ask For Help: [Slack - Web Dev Channel](slack://channel?team={codergirlsummer2018}&id={CBL0W2U05})
 
 
-# Learning Path
+## Learning Path
 
+### [Lesson 2](lesson_2/overview)
 
-### Lesson 1
-
-**0.0 Computer Setup**
-
-Download and install necessary tools to get ready to code!
-
-content: [Computer Setup](lesson_1/0_computer_setup)
-
-
-
-**1.0 How The Web Works**
-
-Before we starting coding websites, we need to understand a little more about how the web actual works and where our role as web developers fits into it.
-
-assignment: [How The Web Works](lesson_1/1_how_web_works)
+### [Lesson 1](lesson_1/overview)
 
 
 
-**1.1 You As A FrontEnd Web Developer**
+## Need Help
 
-Everyone already has skills that can contribute to being a good web developer whether you have actually programmed before or not. Here we identify what those things are and how you can be successful!
+You can reach mentors on Slack! Or email if you need :)
 
-assignment: [You As A FrontEnd Dev](lesson_1/2_you_as_dev)
+Katie Mathews
 
+Annie McCance
 
+Christine Stavridis
 
-**1.2 HTML, CSS, Javascript**
+Lincoln Wisely
 
-HTML, CSS and Javascript are the main languages you will be learning for frontend web development. They each do different things and work together to create the website you use today.
+Erica Kaiser
 
-assignment: [Roles of HTML, CSS and JS](lesson_1/3_roles_of_lang)
-
-
-
-**1.3 Additional Resources**
-
-Interested in understanding a little more? Here are some extra resources that might be good to browse, especially if you are having trouble completing the above questions.
-
-content: [Roles of HTML, CSS and JS](lesson_1/4_resources)
+Sylwinn Tudor

@@ -5,7 +5,15 @@ permalink: /lesson_1/1_how_web_works
 
 # How The Web Works - Big Picture
 
-Objective: Before we start getting into the details of programming... let's try to get a bigger picture of what is going when you open a web browser (like Chrome or Firefox), enter a url and the website loads on your screen.
+Before we start getting into the details of programming... let's try to get a bigger picture of what is going when you open a web browser (like Chrome or Firefox), enter a url and the website loads on your screen.
+
+
+**Plan: [Trello Boards](https://trello.com/cg_webdev_ss_2018)**
+
+**Do: _see learning content below_**
+
+**Record: [Canvas Assignment - Lesson 1.1 How The Web Works](https://learn.launchcode.org/courses/131/assignments/6704)**
+
 
 
 ### Read/Watch

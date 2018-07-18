@@ -5,6 +5,14 @@ permalink: /lesson_1/2_you_as_dev
 
 # You As A FrontEnd Developer
 
+You already have skills that will make you a good web developer. Let's identify what those are.
+
+**Plan: [Trello Boards](https://trello.com/cg_webdev_ss_2018)**
+
+**Do: _see learning content below_**
+
+**Record: [Canvas Assignment - Lesson 1.2 You As A Web Dev](https://learn.launchcode.org/courses/131/assignments/6719)**
+
 
 ### Read
 

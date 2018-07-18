@@ -7,6 +7,8 @@ permalink: /lesson_1/4_resources
 
 Objective: Help you understand what you will be doing as a FrontEnd Web Developer.
 
+**Nothing to Plan or Record Here! Just for your own use!**
+
 
 ### Read
 
