@@ -5,11 +5,11 @@ permalink: /lesson_2/2_day_in_life
 
 # Exercise: Day In The Life
 
-**Plan:** List steps/tasks in [Trello Boards](https://trello.com/cg_webdev_ss_2018)**
+**Plan:** List steps/tasks in [Trello Boards](https://trello.com/cg_webdev_ss_2018)
 
 **Do:** Build a single page website following requirements below.
 
-**Record:** [Canvas Assignment - Lesson 2.2 Day In Life](https://learn.launchcode.org/courses/131/assignments/6932)**
+**Record:** [Canvas Assignment - Lesson 2.2 Day In Life](https://learn.launchcode.org/courses/131/assignments/6932)
 
 
 ## Intro
