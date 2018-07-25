@@ -54,8 +54,11 @@ content: [Roles of HTML, CSS and JS](1_2018/lesson_1/4_resources)
 
 **2.0 Terminal Intro (In Class)**
 
+content: [Terminal Intro](1_2018/lesson_2/0_terminal_intro)
+
 **2.1 The Terminal**
 
+content: [Terminal Exercise](1_2018/lesson_2/1_terminal_exercise)
 
 ### Lesson 3
 
