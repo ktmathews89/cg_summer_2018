@@ -15,6 +15,8 @@ Ask For Help: [Slack - Web Dev Channel](slack://channel?team={codergirlsummer201
 
 ## Learning Path
 
+### [Lesson 3](lesson_3/overview)
+
 ### [Lesson 2](lesson_2/overview)
 
 ### [Lesson 1](lesson_1/overview)
