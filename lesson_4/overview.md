@@ -21,6 +21,6 @@ Web Development Tools
 
 ### Assignments
 
-**[1 Learn about Web Dev Tools](1_html_css_basics)**
+**[1 Learn about Web Dev Tools](1_dev_tools_html_css)**
 
-Take some online courses to learn the basics of using html and css to construct web pages.
+Take an online interactive tutorial and complete a fun challenge to learn how web dev tools can help you view your html/css code right from the browser!
