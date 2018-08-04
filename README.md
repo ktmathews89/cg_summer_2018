@@ -22,6 +22,14 @@ Ask For Help: [Slack - Web Dev Channel](slack://channel?team={codergirlsummer201
 ### [Lesson 1](lesson_1/overview)
 
 
+## Past In-Class Content
+
+### Class 1 - 07/11
+
+### [Class 2 - 07/18](in_class/2)
+
+### [Class 3 - 07/25](in_class/3)
+
 
 ## Need Help
 
