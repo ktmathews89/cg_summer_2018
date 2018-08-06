@@ -17,14 +17,19 @@ The first part of using css is to select an element on the page to style. We can
 
 ## Read About Different CSS Selectors
 
-This article gives pretty great descriptions and examples of the different css selectors. You can read through this as throughly as you want. It will most definitely help you with the CSS Diner Game below. So up to you!
+This article is actually really cool (and also really pretty)! I would definitely suggest reading through this section on CSS Selection.
 
-My suggestion is probably to quickly read through it (understand mostly what it is saying and learn about a couple of different selection)... then play the game below... then come back to this article.
+[Interneting is Hard - CSS Selectors](https://internetingishard.com/html-and-css/css-selectors)
 
-So if you get stuck on a level in the game, you can use this article to help "unstick" you... or use google (always)!
+
+This article gives pretty great descriptions and examples of the different css selectors. You can read through this as throughly as you want or just use it as a reference. So up to you!
+
+My suggestion is probably to browse through it (understand mostly what it is saying and learn about a couple of different selection)... then play the game below... then come back to this article.
 
 
 [Shay Howe - Complex CSS Selection](https://learn.shayhowe.com/advanced-html-css/complex-selectors/)
+
+So if you get stuck on a level in the game, you can use these articles to help "unstick" you... or use google (always)!
 
 
 ## Practice Game
