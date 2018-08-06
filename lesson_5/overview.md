@@ -3,7 +3,7 @@ title: Lesson 5 Overview
 permalink: /lesson_5/overview
 ---
 
-# Lesson 4
+# Lesson 5
 
 Advanced HTML/CSS
 
@@ -17,6 +17,6 @@ CSS Selection Combinations
 
 ### Assignments
 
-**[1 Learn about Web Dev Tools](1_html_css_basics)**
+**[1 CSS Selection](1_css_selection)**
 
-Take some online courses to learn the basics of using html and css to construct web pages.
+Get better at selecting HTML elements in your css.
