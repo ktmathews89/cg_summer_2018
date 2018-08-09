@@ -12,6 +12,8 @@ Record Completed Assignments: [Canvas](https://learn.launchcode.org/courses/131)
 
 Ask For Help: [Slack - Web Dev Channel](slack://channel?team={codergirlsummer2018}&id={CBL0W2U05})
 
+Feedback Survey: [Tell Us What You Think... about anything](http://bit.ly/cg_ss18_feedback)
+
 
 ## Learning Path
 
@@ -28,11 +30,23 @@ Ask For Help: [Slack - Web Dev Channel](slack://channel?team={codergirlsummer201
 
 ## Past In-Class Content
 
-### Class 1 - 07/11
+### [Class 5 - 08/08](in_class/5)
+
+### [Class 4 - 08/01](in_class/4)
+
+### [Class 3 - 07/25](in_class/3)
 
 ### [Class 2 - 07/18](in_class/2)
 
-### [Class 3 - 07/25](in_class/3)
+### Class 1 - 07/11
+
+
+
+
+
+
+
+
 
 
 ## Need Help
