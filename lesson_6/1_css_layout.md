@@ -1,6 +1,6 @@
 ---
 title: CSS Layout
-permalink: /lesson_5/2_layout
+permalink: /lesson_6/1_css_layout
 ---
 
 # CSS Layout
@@ -13,7 +13,7 @@ The box model involves padding, borders, margins, block boxes and inline boxes. 
 
 **Do:** Complete requirements below.
 
-**Record:** [Canvas Assignment - Lesson 5.2 CSS Selection]()
+**Record:** [Canvas Assignment - Lesson 6 CSS Selection](https://learn.launchcode.org/courses/131/assignments/7008)
 
 ## Follow Along with the Box Model and Display Property Tutorial
 
