@@ -33,7 +33,7 @@ CSS Tricks is a helpful resource for CSS, from basic concepts to more advanced s
 
 Setting up a folder to house your project files is super important, as it provides real-world experience. But sometimes you'll want to spin up an environment to quickly knock out a CSS (and eventually, JavaScript) solution. CodePen is one example of a site that provides this experience!
 
-CodePen allows you to add HTML, CSS and JavaScript, as well as more advanced features that we'll get to later. For now, you'll only be using it for HTML and CSS.
+[CodePen](https://codepen.io/) allows you to add HTML, CSS and JavaScript, as well as more advanced features that we'll get to later. For now, you'll only be using it for HTML and CSS.
 
 Feel free to create an account so you can save any projects (called "Pens").
 
