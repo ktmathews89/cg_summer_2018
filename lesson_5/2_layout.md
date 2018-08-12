@@ -19,7 +19,7 @@ The box model involves padding, borders, margins, block boxes and inline boxes. 
 
 This section provides a wonderful in-depth overview of the Box Model - and it also lets you practice creating a new project folder with an HTML and CSS file.
 
-Follow along and create the project folder! Also recommend initing a git repo in your 'css-box-model' folder and commiting your changes as you work through the tutorial. It's a thorough one, but you've got this!
+Follow along and create the project folder! Also recommend initiating a git repo in your 'css-box-model' folder and commiting your changes as you work through the tutorial. It's a thorough one, but you've got this!
 
 [Interneting is Hard - CSS Box Model](https://internetingishard.com/html-and-css/css-box-model/)
 
@@ -31,17 +31,17 @@ CSS Tricks is a helpful resource for CSS, from basic concepts to more advanced s
 
 ## Codepen CSS Layout Challenge
 
-Setting up a folder to house your project files is super important, as it provides real-world experience. But sometimes you'll want to spin up an environment to quickly hash out a CSS (and eventually, JavaScript) solution. CodePen is one example of a site that provides this experience!
+Setting up a folder to house your project files is super important, as it provides real-world experience. But sometimes you'll want to spin up an environment to quickly knock out a CSS (and eventually, JavaScript) solution. CodePen is one example of a site that provides this experience!
 
-Codepen allows you to add HTML, CSS and JavaScript, as well as more advanced features that we'll get to later. For now, you'll only be using it for HTML and CSS.
+CodePen allows you to add HTML, CSS and JavaScript, as well as more advanced features that we'll get to later. For now, you'll only be using it for HTML and CSS.
 
 Feel free to create an account so you can save any projects (called "Pens").
 
 Instructions:
 
-- 'Fork' the CodePen in the right navigation. Forking makes a copy of the project so you can make your own changes to it. Fun fact: GitHub also uses the 'forking' terminology to describe copying a repo over to your personal repo.
+- 'Fork' the CodePen in the right navigation. Forking makes a copy of the project so you can make your own changes to it. Fun fact: GitHub and other git hosting services also use the 'forking' terminology to describe copying a repo over to your personal repo.
 - Explore the CodePen environment: You'll notice there are three areas for editing; think of these as tabs of different files in your editor. In the HTML area, there are instructions for how you should style the divs.
 - Style away: The HTML already has divs. Using the knowledge you learned in the CSS selectors lesson, try to avoid adding additional selectors to the HTML elements. In the CSS area, you can add any styles you want to achieve the requirements listed in the HTML.
 - Tip: You can select the 'Change View' link in the top right to manipulate the layout of your CodePen environment. Happy coding!
 
-[Codepen CSS Layout Challenge](https://codepen.io/lincolnwisely/pen/bjmWQo)
+[CodePen CSS Layout Challenge](https://codepen.io/lincolnwisely/pen/bjmWQo)
