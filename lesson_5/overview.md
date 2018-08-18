@@ -19,6 +19,8 @@ CSS Layout
 - Box Model
 - Display property
 - Position property
+- Flexbox properties
+
 
 ### Assignments
 
@@ -26,6 +28,17 @@ CSS Layout
 
 Get better at selecting HTML elements in your css.
 
+
 **[2 Codepen CSS Layout Challenge](2_layout)**
 
 Read + Watch layout resources, then apply those core concepts to a CodePen challenge!
+
+
+**[3 Learn Flexbox](3_learn_flex)**
+
+Learn how to leverage flexbox to solve your layout problems... with a fun game!
+
+
+**[4 Flex Layout Challenge](4_flex_challenge)**
+
+Complete a Flexbox challenge to show off your knew skills!

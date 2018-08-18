@@ -18,14 +18,19 @@ Feedback Survey: [Tell Us What You Think... about anything](http://bit.ly/cg_ss1
 ## Learning Path
 
 ### [Lesson 5](lesson_5/overview)
+Advanced HTML/CSS - css selection, layout, flexbox
 
 ### [Lesson 4](lesson_4/overview)
+Development Tools
 
 ### [Lesson 3](lesson_3/overview)
+Terminal Practice
 
 ### [Lesson 2](lesson_2/overview)
+Basic HTML/CSS
 
 ### [Lesson 1](lesson_1/overview)
+Intro to Web Development
 
 
 ## Past In-Class Content
