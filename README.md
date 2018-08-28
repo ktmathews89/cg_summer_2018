@@ -17,6 +17,9 @@ Feedback Survey: [Tell Us What You Think... about anything](http://bit.ly/cg_ss1
 
 ## Learning Path
 
+### [Lesson 6](lesson_6/overview)
+Responsive HTML/CSS
+
 ### [Lesson 5](lesson_5/overview)
 Advanced HTML/CSS - css selection, layout, flexbox
 
