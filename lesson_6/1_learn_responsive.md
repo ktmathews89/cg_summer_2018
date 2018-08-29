@@ -11,7 +11,7 @@ Since websites are accessed from all types of devices, it's important to make yo
 
 **Do:** Complete requirements below.
 
-**Record:** [Canvas Assignment - Lesson 6.1 Learn Responsive]()
+**Record:** [Canvas Assignment - Lesson 6.1 Learn Responsive](https://learn.launchcode.org/courses/131/assignments/7039)
 
 
 ## Intro

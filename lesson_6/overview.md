@@ -22,3 +22,8 @@ Responsive HTML/CSS
 **[1 Learn Responsive HTML/CSS](1_learn_responsive)**
 
 Learn how to adjust your html/css to better fit all screen sizes.
+
+
+**[2 Responsive Challenge](2_responsive_challenge)**
+
+Turn the non-responsive dog adoption site into a perfect responsive work of art.
