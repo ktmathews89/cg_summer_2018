@@ -72,3 +72,5 @@ Lincoln Wisely
 Erica Kaiser
 
 Sylwinn Tudor
+
+Taylor Harris
