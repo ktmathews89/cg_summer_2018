@@ -67,21 +67,20 @@ Open your Project In Atom.
 ## Challenge 2: Initialize Git Repository
 
 **STEP 1: Initialize Git Repo**  
-Open your terminal (if not already open) and navigate to your `cat_costume_project` directory.
+Open your terminal (if not already open) and navigate to your `cat_costume_project` directory using the `cd` command.
 
-Make sure you are inside your project directory so `cd cat_costume_project` and when you `ls` you see the index.html file.
+Make sure you are inside your `cat_costume_project` directory so when you `ls` you see the `index.html` file.
 
 Use the `git init` command to initialize this project as a git repository.
 
-Then configure your git name and email with the following commands.
+Then configure your git name and email with the following commands:
 
 ```
 git config --global user.name <name>
 git config --global user.email <email>
 ```
 
-
-> Initializing the directory as a git repository, allows you to use git version control on this project.
+> Note: Initializing the directory as a Git repository allows you to use Git version control on this project.
 
 **STEP 2: Add Files to Git**
 Now, your repository has been initialized, but nothing has been added to it. Let's see what can be added to it by using `git status`.
@@ -100,19 +99,19 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 ```
 
-Did you notice the two `use "git add <file>..."`? Usually Git tries to suggest next steps. So if you find yourself getting stuck make sure to carefully read the message from Git.
+Did you notice the two `use "git add <file>..."`? Usually Git tries to suggest next steps. So if you find yourself getting stuck make sure to carefully read the message from Git outputs to your terminal.
 
-Git mentioned there are untracked files present. That's because you _just_ initialized this repository and Git doesn't know which files to track! You can tell Git which files to track using `git add <file>` (`<file>` is a placeholder for any filepath).
+In the example above, Git mentioned that there are untracked files present. That's because you _just_ initialized this repository and Git doesn't know which files to track! You can tell Git which files to track using `git add <file>` (`<file>` is a placeholder for any filepath).
 
-Ok, let's add _all_ of the files in your directory. You should be inside of `cat_costume_project`.
+Ok, let's add _all_ of the files in your `cat_costume_project` directory:
 
 ```
 git add .
 ```
 
-The `.` in `git add .` tells Git to add every file in the project directory for tracking.
+> Note: The `.` in `git add .` tells Git to add every file in the project directory for tracking.
 
-Run `git status` again to see what you've added.
+Run `git status` again to see what you've added. You should see a long list of items. Sometimes these are colored green. Now you need to commit these updates in order to create your first version of the project.
 
 **STEP 3: Make your first commit**
 Since this is a new repository, there are a lot of changes to commit! Run the following command:
@@ -124,6 +123,9 @@ git commit -m "Initial commit: Adds file structure."
 > Note: Remember to run `git commit` with the `-m`like, `git commit -m "With your custom message here."`. If you don't your terminal may open it's own editor, like [vi](https://en.wikipedia.org/wiki/Vi). If that happens you _may_ be able to type `:q` to "quit" the editor.
 
 **STEP 4: Pat yourself on your back**
+
+![Cheers!](https://media.giphy.com/media/609o8uNjasiJO/giphy.gif)
+
 That's it! Now you are ready to code! As you write code, you should be using `git add`, `git commit`, and `git push` to track updates to you project.
 
 Below is a Git cheatsheet to help you:
