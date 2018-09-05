@@ -7,7 +7,7 @@ permalink: /3_cat_costume_1
 
 **Plan:** List steps/tasks in [Trello Boards](https://trello.com/cg_webdev_ss_2018)
 
-**Do:** Build a mobile-first website from a design.
+**Do:** Initialize your local Git repository for the Cat Costume Project.
 
 **Record:** [INSERT LINK HERE](http://bomb.com)
 
