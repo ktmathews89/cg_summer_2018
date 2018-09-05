@@ -21,7 +21,7 @@ Time to start a new project! The Cat Costume Project! This Project will help you
 4. Learn how to use CSS classes effectively
 
 The material for this exercise is broken up in to two parts:
-- [Part 2](/cg_summer_2018/lesson_6/3_cat_project_1): Setting up your Git repository
+- [Part 1](/cg_summer_2018/lesson_6/3_cat_project_1): Setting up your Git repository
 - [Part 2](/cg_summer_2018/lesson_6/4_cat_project_2): Starting your responsive website
 
 ## Challenge 1: Create your File Structure and your HTML/CSS files.
