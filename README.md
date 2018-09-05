@@ -17,6 +17,9 @@ Feedback Survey: [Tell Us What You Think... about anything](http://bit.ly/cg_ss1
 
 ## Learning Path
 
+### [Lesson 7](lesson_7/overview)
+Final HTML/CSS Project
+
 ### [Lesson 6](lesson_6/overview)
 Responsive HTML/CSS
 

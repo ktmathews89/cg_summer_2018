@@ -1,17 +1,20 @@
-# Exercise: Cat Costume Project: Part 2
+---
+title: Cat Project Challenges - Part 2
+permalink: /lesson_7/2_cat_project_challenges
+---
+
+# Cat Project Challenges: Part 2
+
 
 **Plan:** List steps/tasks in [Trello Boards](https://trello.com/cg_webdev_ss_2018)
 
 **Do:** Build a mobile-first website from a design.
 
-**Record:** [INSERT LINK HERE](http://bomb.com)
+**Record:** [Lesson 7.2 - Cat Project Challenges - Part 2](https://learn.launchcode.org/courses/131/assignments/7048)
 
 ## Intro
-You just set up your Git repository following [Part 1](/cg_summer/2018/lesson_6/3_cat_project_1). Remember to make Git commits frequently as you code. The benefits of commit often are many, including rolling back your code to a version that worked a little better in the past.
+You just set up your Git repository following [Part 1](1_cat_project_setup). Remember to make Git commits frequently as you code. The benefits of commit often are many, including rolling back your code to a version that worked a little better in the past.
 
-Now, you're ready to start coding the mobile-first website. If you haven't already taken the [Udacity Responsive course](https://classroom.udacity.com/courses/ud893) yet, it's okay. There are prompts below to indicate which lessons you should complete in order to complete the challenges.
-
-You can also learn why people choose mobile-first here: [ZURB](https://zurb.com/word/mobile-first).
 
 ## Goals
 1. Make Git commits your local repository
@@ -19,8 +22,11 @@ You can also learn why people choose mobile-first here: [ZURB](https://zurb.com/
 3. Use media queries to create a responsive website experience
 4. Learn how to use CSS classes effectively
 
+
 ## Challenge 1: Review the designs
 You will be working on the mobile version of the site first. But, take a look at both of the design files for this project (located in the `/design` folder). Keep the desktop version of the site in the back of your mind.
+
+> if you want to learn why people choose mobile-first, read here: [ZURB](https://zurb.com/word/mobile-first)
 
 The site uses Google Font's PT Sans Narrow, PT Sans Narrow Bold, PT Serif, and PT Serif Bold. The design also features a number of colors you should use. Hexadecimal numbers are below for your convenience:
 
@@ -40,9 +46,6 @@ First, add the below viewport meta element in your html's <head></head>. This is
 
 Next, add the Google Fonts you need!
 
-### Course Material for Challenge 3
-
-[Take Udacity Responsive Lesson 1 and 2](https://classroom.udacity.com/courses/ud893)
 
 ## Challenge 3: Fluid Layout & Responsive Widths
 
@@ -52,15 +55,15 @@ Use your own discretion on what looks good. You definitely want each of the html
 
 Remember you can use both `width: 80%;` and `max-width:400px;` together. This would keep the element at 80% it's container's width, but will not ever get bigger than 400px.
 
-#### Course Material for Challenge 4
+> If you are struggling with this challenge, [Udacity Responsive Lesson 1 and 2](https://classroom.udacity.com/courses/ud893), might help. Then come back to your project.
 
-[Take Udacity Responsive Lesson 3](https://classroom.udacity.com/courses/ud893)
-
-In this lesson you will learn about media queries and a little about flexbox.
 
 #### Challenge 4: Use Media Queries to Help with "Breaks"
 
 In today's world, we rarely make sites just adaptive. Usually we want the site to look good on ALL device and don't usually target just one particular device and screen size. This means we want our site to be RESPONSIVE.
+
+> Again, if you struggle with this challenge, [Udacity Responsive Lesson 3](https://classroom.udacity.com/courses/ud893) might help. They cover media queries and a little about flexbox.
+
 
 **STEP 1: Determine widths where site breaks down**
 
@@ -120,8 +123,9 @@ Now go ahead and fix the css you need to inside the media query you wrote in the
 
 Repeat this process for all your sections. Keep incrementally resizing your browser to find breaks, add media queries and styles to fix those breaks. When you are done, your site should look good on ALL browsers and devices.
 
+
 #### Still Confused? Or just want a Debrief of What you Learned?
 
-Here is a nice reading with pretty images to debrief all this stuff you just did! The person who wrote it is focusing on styles changing from desktop to tablet to mobile. It would be good to skim and look at the pictures. You might pick up some tips for the next project you create :)
+Here the internetingishard article again. Its has some nice reading with pretty images to debrief all this stuff you just did!
 
 [Responsive Design Article](https://internetingishard.com/html-and-css/responsive-design/)

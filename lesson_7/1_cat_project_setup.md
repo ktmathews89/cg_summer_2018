@@ -1,28 +1,30 @@
 ---
-title: Cat Costume 1
-permalink: /3_cat_costume_1
+title: Cat Project Setup - Part 1
+permalink: /lesson_7/1_cat_project_setup
 ---
 
-# Exercise: Cat Costume Project: Part 1
+# Cat Project Setup: Part 1
 
 **Plan:** List steps/tasks in [Trello Boards](https://trello.com/cg_webdev_ss_2018)
 
 **Do:** Build a mobile-first website from a design.
 
-**Record:** [INSERT LINK HERE](http://bomb.com)
+**Record:** [Lesson 7.1 - Cat Project Setup - Part I](https://learn.launchcode.org/courses/131/assignments/7047)
 
 ## Intro
 Time to start a new project! The Cat Costume Project! This Project will help you practice using GIT, HTML, and CSS.
 
 ## Goals
-1. Make Git commits your local repository 
+1. Make Git commits your local repository
 2. Build a mobile-first website from someone else's designs
 3. Use media queries to create a responsive website experience
 4. Learn how to use CSS classes effectively
 
 The material for this exercise is broken up in to two parts:
-- [Part 2](/cg_summer_2018/lesson_6/3_cat_project_1): Setting up your Git repository
-- [Part 2](/cg_summer_2018/lesson_6/4_cat_project_2): Starting your responsive website
+- Part 1 - this page: Setting up your Git repository
+- [Part 2](./2_cat_project_challenges): Starting your responsive website
+
+So start here!
 
 ## Challenge 1: Create your File Structure and your HTML/CSS files.
 
@@ -148,4 +150,4 @@ git checkout <file>
 
 Now that you have set up your Git repository. Let's start working on your HTML and CSS.
 
-On to [Part 2](Part 2](/cg_summer_2018/lesson_6/4_cat_project_2)!
+On to [Part 2](./2_cat_project_challenges)!
