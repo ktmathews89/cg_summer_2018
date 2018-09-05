@@ -24,7 +24,7 @@ You can also learn why people choose mobile-first here: [ZURB](https://zurb.com/
 ## Challenge 1: Review the designs
 You will be working on the mobile version of the site first. But, take a look at both of the _mobile and desktop_ design files for this project. (They are located in the `/design` directory.) Keep the desktop version of the site in the back of your mind.
 
-The cat costume site uses Google Font's PT Sans Narrow, PT Sans Narrow Bold, PT Serif, and PT Serif Bold. The design also features a number of colors you should use. Hexadecimal numbers are below for your convenience:
+The cat costume site uses Google Fonts named PT Sans Narrow, PT Sans Narrow Bold, PT Serif, and PT Serif Bold. The design also features a number of colors you should use. Hexadecimal numbers are below for your convenience:
 
 - #323232
 - #eeeeee
