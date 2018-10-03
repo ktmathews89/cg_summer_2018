@@ -17,6 +17,9 @@ Feedback Survey: [Tell Us What You Think... about anything](http://bit.ly/cg_ss1
 
 ## Learning Path
 
+### [Lesson 8](lesson_8/overview)
+Javascript Part I - Learning a Programming Language, Javascript
+
 ### [Lesson 7](lesson_7/overview)
 Final HTML/CSS Project
 
