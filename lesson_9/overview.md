@@ -24,6 +24,6 @@ Learn more about writing Javascript with the next 2 CodeAcademy sections:
 6. Loops
 7. Iterators
 
-**[2 Javascript Challenges II](2_js_challenges_2)**
+**[2 CG Education Part I](2_cg_ed_1)**
 
-Test you knowledge of functions with more challenges in the JS Adventure Project.
+**[3 CG Education Part II](2_cg_ed_2)**
