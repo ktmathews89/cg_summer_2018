@@ -14,10 +14,11 @@ permalink: /lesson_9/1_codeacademy_part_2
 
 ## Intro
 
-Back to CodeAcademy to learn about javascript object and classes of an application.
+Back to CodeAcademy to learn about Javascript objects and classes of an application.
 
-So this assignment is to complete the next 2 sections of the CodeAcademy Introduction to Javascript Course.
+So this assignment is to complete the next 2 sections of the CodeAcademy Introduction to Javascript Course (lessons 8 & 9).
 
+(Note: if you're learning Javascript from a different resource, you should be at a point where you have learned about Objects and Classes before doing the challenges).
 
 ## Goals
 1. Complete the next 2 sections of the Intro to Javascript Course.
@@ -26,9 +27,7 @@ So this assignment is to complete the next 2 sections of the CodeAcademy Introdu
 
 ## Step 1: Complete the next 2 sections
 
-Complete just the next three sections (highlighted in BLUE below) of the Intro to Javascript course, Objects and Classes (see below picture). Then we will move you on to more project challenges.
-
-<img width="80%" src="../images/codeacademy_3.png" />
+Complete just lessons 8 & 9 of the Introduction to Javascript course on [CodeAcademy](https://www.codecademy.com/learn/introduction-to-javascript#course-landing-page)
 
 
 ## Step 2: Mark Complete in Canvas

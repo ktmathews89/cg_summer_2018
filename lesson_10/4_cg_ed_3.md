@@ -6,7 +6,7 @@ permalink: /cg_ed_3
 # CG Education - Javascript Part III
 
 ### Intro
-To complete the challenges in this section, you should know about anonymous functions and object.
+To complete the challenges in this section, you should know about [anonymous functions](http://helephant.com/2008/08/23/javascript-anonymous-functions/) and objects.
 
 To start, go ahead and open your terminal, navigate to that project, and make sure all your work from the last CG Education JS Practice is committed with git. Now open the project directory with your text editor and let's begin!
 
@@ -27,15 +27,15 @@ If the user input was not empty...
 
 use the college grad year to figure out if the student is currently in high school or college...
 
-if in college, write to the console, "You are in college.".
+if in college, write to the console, "You are in college."
 
-if in high school, write to the console, "You are in high school".
+if in high school, write to the console, "You are in high school."
 
 These console.logs will be replaced later, but for now, we want to make sure our logic is correct.
 
 
 **STEP 3: Welcoming Some Students**
-Write 2 anonymous functions and store then in variables called... welcomeCollegeStudent and welcomeHsStudent. Each will take one parameter, the student's class (like Freshman, Sophomore... etc).
+Write 2 anonymous functions and store them in variables called... welcomeCollegeStudent and welcomeHsStudent. Each will take one parameter: the student's class (like Freshman, Sophomore... etc).
 
 The college welcome function should alert the following message...
 ```
@@ -114,7 +114,7 @@ getAvgRating
 
 Let's start with the list and create a teacher object... with just an object literal declaration (with the curly brackets)...
 ```
-var teacher = {
+let teacher = {
     // list and fill properties here
 };
 ```
@@ -126,12 +126,12 @@ var teacher = {
 There is something else we can do as well. Since we will only want to add to the ratings array that is the property of the teacher object, we can remove the ratings parameter and use that special word `this` to access the teacher's object ratings array... make sure to keep the newRating parameter. That will still have to come from "outside" the object.... stuck on this one? here is a little bit of help...
 
 ```
-var teacher = {
+let teacher = {
     // pretend there are other properties here
     ratings: [3.5, 1.0, 5.0],
-    addRating: function (newRating){
+    addRating (newRating){
         this.ratings.push(newRating);
-    },
+    }
 };
 ```
 
@@ -174,16 +174,16 @@ Oh no. This might have broken your filterCourses function. Let's update it so it
 
 We used to access the course department with `course[1]` ... how do we change that to get the department property of a course object?
 
-Go ahead and try to update the filterCourses function and text it with the user prompt you created earlier. :)
+Go ahead and try to update the filterCourses function and text with the user prompt you created earlier. :)
 
 
 **STEP 5: Adding an object as a property of another object**
 
-In our course object we have teacher property. Currently that teacher property is just a string. But wouldn't it be cool if it was actually a teacher OBJECT! That was we could access the teachers name, department or even avg rating.
+In our course object we have teacher property. Currently that teacher property is just a string. But wouldn't it be cool if it was actually a teacher OBJECT! That way we could access the teachers name, department or even avg rating.
 
-Change out the string teacher value in the course object for an actually teacher object. You can create a new object with the same properties as the teacher object OR use the teacher object variable you created in step 1.
+Change out the string teacher value in the course object for an actual teacher object. You can create a new object with the same properties as the teacher object OR use the teacher object variable you created in step 1.
 
-Now to test that this worked, let's test this. Console log a course's teacher name.
+Now to make sure that this worked, let's test this. Console log a course's teacher name.
 
 Hint: you might have to use the dot operator a couple of times. :)
 
@@ -199,16 +199,16 @@ Okay that is enough for now. Let's move on to learn about Object Prototypes befo
 
 Currently your teacher object should look something like this:
 ```
-var teacher = {
+const teacher = {
   name: "Sally Smith",
   department: "Physics",
   ratings: [4.3, 5.0, 4.7],
 
-  addTeacherRating: function(newRating) {
+  addTeacherRating (newRating) {
     this.ratings.push(newRating);
   },
 
-  getRatingAvg: function() {
+  getRatingAvg () {
     var total = 0;
     for(i=0; i < this.ratings.length; i++) {
       total = total + this.ratings[i];
@@ -220,16 +220,16 @@ var teacher = {
 
 Great! Our code is looking a bit more organized than when we had all those variables individually storing everything. But there is one more improvement we can make... Re-usability! With our current teacher object, we would have to re-make the object literal with every new teacher like:
 ```
-var teacherSally = {
+const teacherSally = {
   name: "Sally Smith",
   department: "Physics",
   ratings: [4.3, 5.0, 4.7],
 
-  addTeacherRating: function(newRating) {
+  addTeacherRating (newRating) {
     this.ratings.push(newRating);
   },
 
-  getRatingAvg: function() {
+  getRatingAvg () {
     var total = 0;
     for(i=0; i < this.ratings.length; i++) {
       total = total + this.ratings[i];
@@ -238,16 +238,16 @@ var teacherSally = {
   }
 };
 
-var teacherBobby = {
-  name: "Bobby Smith",
-  department: "Physics",
-  ratings: [4.3, 5.0, 4.7],
+const teacherBobby = {
+  name: "Bobby Brown",
+  department: "Art",
+  ratings: [3.2, 4.5, 2.6],
 
-  addTeacherRating: function(newRating) {
+  addTeacherRating (newRating) {
     this.ratings.push(newRating);
   },
 
-  getRatingAvg: function() {
+  getRatingAvg () {
     var total = 0;
     for(i=0; i < this.ratings.length; i++) {
       total = total + this.ratings[i];
@@ -257,7 +257,7 @@ var teacherBobby = {
 };
 ```
 
-Not the best. We did all that work with our functions and now we can't even re-use the function. So solve this problem we can turn the teacher into an Object Prototype (or class).
+Not the best. We did all that work with our functions and now we can't even re-use the function. So solve this problem we can turn the teacher into an Object Class (or prototype).
 
 First, create a Teacher constructor. Remember Javascript Constructors are just functions that names are capitalized.
 
@@ -271,7 +271,7 @@ This constructor should take parameters to give the Teacher properties their ini
 ```
 this.name = <whatever you named this parameter>;
 ```
-You should have code like this in your constructor for whatever properties the teacher class has ... in this case... name, department and ratings... all need to be initialized to some value.
+You should have code like this in your constructor for whatever properties the teacher class has in it.  In this case... name, department and ratings... all need to be initialized to some value.
 
 Not done yet! what about the functions. Where do we add those?!? Well since those are properties of the teacher object but do NOT need to be "initialized" or set to default values... we can add them to the teacher object AFTER the constructor with:
 ```
@@ -291,7 +291,7 @@ Now it's time to make use of the Teacher object re-usability!
 Let's create 3 new teachers, using the new key word like:
 ```
 // remember to pass in parameters that your construtor takes
-var teacherSally = new Teacher("Sally Smith", "Phsyics", [5.0, 4.3, 4.1]);
+const teacherSally = new Teacher("Sally Smith", "Phsyics", [5.0, 4.3, 4.1]);
 
 // repeat 3 times with different parameters to create different teachers...
 ```
@@ -308,9 +308,9 @@ Adding Rating: 5.0
 New Avg Rating: 4.7
 ```
 
-Wow! Javascript Prototypes are cool!
+Wow! Javascript Classes/Prototypes are cool!
 
-**STEP 3: Create Course Prototype**
+**STEP 3: Create Course Class**
 
 I am not going to give you so much instruction on this one, but to make the Course variables a prototype follow the same method as we used for teachers...
 
@@ -323,7 +323,7 @@ But wait, what should the teacher property's value be? A teacher's name?
 Well now that we have a Teacher Class and new teacher instances, we can use a teacher instance instead of just a teacher name. In the Course constructor, we can pass it a teacher instance to assign the teacher property.
 
 
-**STEP 4: Create A Student Prototype**
+**STEP 4: Create A Student Class**
 
 It's been a little bit since we have touched the student section of this JS file. So let's go ahead and create a Student Prototype as well... The student prototype will need the properties name, major, email, avgGPA, and a courses array.
 
@@ -336,7 +336,7 @@ changeMajor - function takes a string parameter and changes the Student's major 
 yeah! We should be done with the Student Prototype! Now let's create some instances of that Prototype.
 
 
-**STEP 5: Using the Student Prototype**
+**STEP 5: Using the Student Class**
 
 In your html/css that you made, create a new variable for each student you have listed in your design... and store a new instance of the Student Object. Making sure to pass in all the parameters that the Student constructor needs.
 

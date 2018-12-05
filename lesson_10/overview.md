@@ -24,6 +24,6 @@ Start to learn how to write Javascript with the first 4 CodeAcademy sections:
 3. Functions
 4. Scope
 
-**[2 CG Education Part III](2_cg_ed_3)**
+**[2 CG Education Part III](4_cg_ed_3)**
 
 Test you knowledge of data types, variables, conditionals, and functions with the JS Adventure Project.
