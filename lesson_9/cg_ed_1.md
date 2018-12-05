@@ -30,7 +30,7 @@ You're here! You made it! You rock! Welcome to the start of your final project!
 
 ## Getting Started
 
-First, download the project files [here](http://bit.ly/cg_ss18_cg-education-1). The HTML and CSS files have been written for you so you can focus on the JavaScript. However, you are free to update the HTML and CSS as you like! Just remember that the focus of this project is the JavaScript. You'll find basic wireframes for the site design in the `wireframes/` directory.
+First, download the project files [here](https://bit.ly/cg_ss18_cg-education). The HTML and CSS files have been written for you so you can focus on the JavaScript. However, you are free to update the HTML and CSS as you like! Just remember that the focus of this project is the JavaScript. You'll find basic wireframes for the site design in the `wireframes/` directory.
 
 ## Challenges
 ### Challenge 1: Create and Link a JavaScript File.
