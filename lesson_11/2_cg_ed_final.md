@@ -6,7 +6,7 @@ permalink: /1_2018/lesson_10/1_cg_ed_final
 # CG Education - Final (JS + jQuery)
 
 ### Intro
-Alright!!! Time to put all your knowledge to the test. Javascript... jQuery... even HTML/CSS. Let's get started!
+Alright!!! Time to put all your knowledge to the test. Javascript... Interacting with the DOM... even HTML/CSS. Let's get started!
 
 
 #### Course Filters
