@@ -1,14 +1,27 @@
 ---
 title: CG Education - JS 2
-permalink: /lesson_9/cg_ed_2
+permalink: /lesson_9/3_cg_ed_2
 ---
 
 # CG Education - Javascript Part II
 
 ### Intro
-You learned a lot since our last challenge... loops, arrays, conditionals, function... wow. This assignment will hopefully help you make a little more sense of it all.
-
 To start, go ahead and open your terminal, navigate to that project, and make sure all your work from the last CG Education JS Practice is committed with git. Now open the project directory with your text editor and let's begin!
+
+**To complete the challenges on this page:** you should be finished through lesson seven of Codecademy's "Introduction to JavaScript" course. We will include relevant Codecademy material in each challenge. Here's what your final project could look like by the end: [video](https://youtu.be/l8nviFt9oAU).
+
+**To complete the _entire_ project:** you will have to work through lesson nine of the Codecademy [course](https://www.codecademy.com/learn/introduction-to-javascript). By the end of this project, you should have a working knowledge of Variables, Conditionals, Functions, Scope, Arrays, Loops, Iterators, Objects and Classes.
+
+
+
+## Goals (for Part 2)
+1. Read and understand someone else's code.
+2. Use Google to solve problems!
+3. Become more comfortable using Developer Tools, specifically Console.
+4. *Frequently* use JavaScript's built-in `console` object to test and debug your work.
+5. Use arrays to store data more efficiently.
+6. Use loops to take action on the array data.
+7. Use function to group together operations that you might want to use more than once.
 
 
 
@@ -101,6 +114,7 @@ Create another prompt. (also you might have to comment the other prompt out, so 
 
 
 ### Continue...
-Hopefully these challenges helped you practice what you learned in the 2nd Javascript Course.. now you are ready to continue on and take the third Javascript Course and learn about Objects. Then we will be back in this project and REALLY be able to make it fancy.
+
+Hopefully these challenges helped you practice what you learned in the CodeAcademy Course.. now you are ready to continue on and take the next CodeAcademy lesson and learn about Objects. Then we will be back in this project and REALLY be able to make it fancy.
 
 YEAH! ON WARD! (but first git commit!!! make those commits!!)

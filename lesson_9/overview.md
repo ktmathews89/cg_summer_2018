@@ -24,10 +24,11 @@ Learn more about writing JavaScript with the next 2 Codecademy sections:
 6. Loops
 7. Iterators
 
-**[2 JavaScript Challenges II](2_cg_ed_1)**
+**[2 CG Education - Part 1](2_cg_ed_1)**
 
-Test your knowledge of functions with more challenges in the JS Adventure Project.
+Start your final javascript project!
 
-**[3 CG Education - JavaScript I](3_cg_ed_1)**
 
-Flex your Codecademy knokwledge and start your final JavaScript project.
+**[3 CG Education - Part 2](3_cg_ed_2)**
+
+More challenges to add to your final javascript project.

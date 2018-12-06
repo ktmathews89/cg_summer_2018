@@ -17,7 +17,7 @@ You're here! You made it! You rock! Welcome to the start of your final project!
 
 **To complete the challenges on this page:** you should be finished with Lesson 1 of Codecademy's "Introduction to JavaScript" course. We will include relevant Codecademy material in each challenge. Here's what your final project could look like by the end: [video](https://youtu.be/l8nviFt9oAU).
 
-**To complete the _entire_ project:** you will have to work through lesson seven of the Codecademy [course](https://www.codecademy.com/learn/introduction-to-javascript). By the end of this project, you should have a working knowledge of Variables, Conditionals, Functions, Scope, Arrays, Loops, Iterators, and Objects.
+**To complete the _entire_ project:** you will have to work through lesson nine of the Codecademy [course](https://www.codecademy.com/learn/introduction-to-javascript). By the end of this project, you should have a working knowledge of Variables, Conditionals, Functions, Scope, Arrays, Loops, Iterators, Objects and Classes.
 
 ## Goals (for Part 1)
 1. Read and understand someone else's code.
