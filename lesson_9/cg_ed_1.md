@@ -9,7 +9,7 @@ permalink: /cg_ed_1
 
 **Do:**  Download app to your phone and play (instructions below).
 
-**Record:** [Lesson 9.3 CoderGirl Education Project Part 1](https://learn.launchcode.org/courses/131/assignments/7223)
+**Record:** [Lesson 9.3 CoderGirl Education Project Part 1](https://learn.launchcode.org/courses/131/assignments/7553)
 
 ## Intro
 
