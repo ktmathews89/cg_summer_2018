@@ -3,6 +3,9 @@ title: Javascript Challenges I
 permalink: /lesson_8/2_js_challenges_part_1
 ---
 
+
+# DO NOT START THIS PROJECT, IT WAS A TERRIBLE IDEA and you should move to the next lesson instead.
+
 # Javascript Challenges I - Variables, Conditionals, Functions & Scope
 
 **Plan:** List steps/tasks in [Trello Boards](https://trello.com/cg_webdev_ss_2018)

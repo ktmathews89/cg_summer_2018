@@ -15,7 +15,7 @@ Learn the following JS concepts:
 
 ### Assignments
 
-**[1 CodeAcademy Part IIII](1_codeacademy_part_4)**
+**[1 CodeAcademy Part 4](1_codeacademy_part_4)**
 
 
 **[2 CG Education FINAL](2_cg_ed_final)**
