@@ -1,6 +1,6 @@
 ---
 title: CodeAcademy Part II
-permalink: /lesson_9/1_codeacademy_part_2
+permalink: /lesson_10/1_codeacademy_part_2
 ---
 
 # CodeAcademy Part III - Objects, Classes
