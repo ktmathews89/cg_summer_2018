@@ -9,7 +9,7 @@ permalink: /lesson_9/1_codeacademy_part_2
 
 **Do:** Download app to your phone and play (instructions below).
 
-**Record:** [Lesson 9.1 - CodeAcademy Part II](https://learn.launchcode.org/courses/131/assignments/7224)
+**Record:** [Lesson 9.1 - CodeAcademy - Arrays Loops Iterators](https://learn.launchcode.org/courses/131/assignments/7555)
 
 
 ## Intro

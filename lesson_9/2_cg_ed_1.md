@@ -1,15 +1,15 @@
 ---
-title: CG Education - JS 1
+title: CG Education 1
 permalink: /lesson_9/2_cg_ed_1
 ---
 
-# CG Education - JavaScript Part I
+# CG Education - Part I
 
 **Plan:** List steps/tasks in [Trello Boards](https://trello.com/cg_webdev_ss_2018)
 
 **Do:**  Download app to your phone and play (instructions below).
 
-**Record:** [Lesson 9.3 CoderGirl Education Project Part 1](https://learn.launchcode.org/courses/131/assignments/7553)
+**Record:** [Lesson 9.2 CoderGirl Education Project Part 1](https://learn.launchcode.org/courses/131/assignments/7553)
 
 ## Intro
 

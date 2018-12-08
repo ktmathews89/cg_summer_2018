@@ -1,9 +1,16 @@
 ---
-title: CG Education - JS 2
+title: CG Education 2
 permalink: /lesson_9/3_cg_ed_2
 ---
 
-# CG Education - Javascript Part II
+# CG Education Part II
+
+**Plan:** List steps/tasks in [Trello Boards](https://trello.com/cg_webdev_ss_2018)
+
+**Do:**  Download app to your phone and play (instructions below).
+
+**Record:** [Lesson 9.3 CoderGirl Education Project Part 2](https://learn.launchcode.org/courses/131/assignments/7556)
+
 
 ### Intro
 To start, go ahead and open your terminal, navigate to that project, and make sure all your work from the last CG Education JS Practice is committed with git. Now open the project directory with your text editor and let's begin!

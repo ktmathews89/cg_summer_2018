@@ -12,7 +12,7 @@ permalink: /lesson_8/2_js_challenges_part_1
 
 **Do:** Download app to your phone and play (instructions below).
 
-**Record:** [Lesson 9.2 - JS Challenges I]()
+**Record:** [Lesson 9.2 - JS Adventure Challenge](https://learn.launchcode.org/courses/131/assignments/7554)
 
 
 ## Goals
