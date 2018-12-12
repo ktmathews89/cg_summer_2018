@@ -17,6 +17,9 @@ Feedback Survey: [Tell Us What You Think... about anything](http://bit.ly/cg_ss1
 
 ## Learning Path
 
+### [Lesson 10](lesson_10/overview)
+JavaScript Part III - Objects & Classes
+CG Education Project - Part II
 
 ### [Lesson 9](lesson_9/overview)
 Javascript Part II - Array, Loops & Iterators  
