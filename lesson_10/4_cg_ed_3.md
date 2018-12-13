@@ -1,6 +1,6 @@
 ---
 title: CG Education - JS 3
-permalink: /4_cg_ed_3
+permalink: /lesson_10/4_cg_ed_3
 ---
 
 # CG Education - Javascript Part III
