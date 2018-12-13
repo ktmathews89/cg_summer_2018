@@ -357,5 +357,3 @@ WAY TO GO!! ALL OF OUR CHAOTIC VARIABLES ARE OBJECTS AND REUSABLE! THIS IS AMAZI
 
 
 Now, let's clean up your code and make sure it is organized and properly spaced... maybe add some comments in places where you figured out something confusing.. the USE GIT AND COMMIT!
-
-Onto jQuery ... then we will use these objects to populate our different pages :) YEAH!
